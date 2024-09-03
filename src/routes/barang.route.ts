@@ -1,8 +1,6 @@
-import { Request, Response, Router } from "express";
+import { Router } from "express";
+import { getAllBarang } from "../controllers/barang.controller";
 const barangRouter = Router();
 
-barangRouter.get("/barang", (req: Request, res: Response) => {
-  res.status(200).json({ message: "Hello World!" });
-});
-
+barangRouter.get("/barang", getAllBarang);
 export default barangRouter;
