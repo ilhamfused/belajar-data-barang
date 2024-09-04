@@ -1,5 +1,5 @@
 import joi from "joi";
-import BarangType from "../types/barang.types";
+import BarangType from "../types/barang.type";
 
 export const inputBarangValidation = (payload: BarangType): joi.ValidationResult<BarangType> => {
   const schema = joi.object({

@@ -28,3 +28,873 @@ TSError: ⨯ Unable to compile TypeScript:
     at Module.load (node:internal/modules/cjs/loader:1207:32)
     at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
     at Module.require (node:internal/modules/cjs/loader:1235:19)
+ [LOGGER] 2024-09-03 11:03:40.101 AM error : uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/routes/barang.route.ts[0m:[93m8[0m:[93m8[0m - [91merror[0m[90m TS2307: [0mCannot find module '../controllers/barang.contoller' or its corresponding type declarations.
+
+[7m8[0m } from '../controllers/barang.contoller'
+[7m [0m [91m       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[96msrc/routes/barang.route.ts[0m:[93m9[0m:[93m29[0m - [91merror[0m[90m TS2307: [0mCannot find module '../controllers/error.controller' or its corresponding type declarations.
+
+[7m9[0m import { autenticate } from '../controllers/error.controller'
+[7m [0m [91m                            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/routes/barang.route.ts[0m:[93m8[0m:[93m8[0m - [91merror[0m[90m TS2307: [0mCannot find module '../controllers/barang.contoller' or its corresponding type declarations.
+
+[7m8[0m } from '../controllers/barang.contoller'
+[7m [0m [91m       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[96msrc/routes/barang.route.ts[0m:[93m9[0m:[93m29[0m - [91merror[0m[90m TS2307: [0mCannot find module '../controllers/error.controller' or its corresponding type declarations.
+
+[7m9[0m import { autenticate } from '../controllers/error.controller'
+[7m [0m [91m                            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+    at createTSError (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:863:19)
+    at getOutput (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1077:36)
+    at Object.compile (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1433:41)
+    at Module.m._compile (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+ [LOGGER] 2024-09-03 11:03:59.711 AM error : uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/routes/barang.route.ts[0m:[93m8[0m:[93m8[0m - [91merror[0m[90m TS2307: [0mCannot find module '../controllers/barang.contoller' or its corresponding type declarations.
+
+[7m8[0m } from '../controllers/barang.contoller'
+[7m [0m [91m       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[96msrc/routes/barang.route.ts[0m:[93m9[0m:[93m29[0m - [91merror[0m[90m TS2307: [0mCannot find module '../controllers/error.controller' or its corresponding type declarations.
+
+[7m9[0m import { autenticate } from '../controllers/error.controller'
+[7m [0m [91m                            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/routes/barang.route.ts[0m:[93m8[0m:[93m8[0m - [91merror[0m[90m TS2307: [0mCannot find module '../controllers/barang.contoller' or its corresponding type declarations.
+
+[7m8[0m } from '../controllers/barang.contoller'
+[7m [0m [91m       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[96msrc/routes/barang.route.ts[0m:[93m9[0m:[93m29[0m - [91merror[0m[90m TS2307: [0mCannot find module '../controllers/error.controller' or its corresponding type declarations.
+
+[7m9[0m import { autenticate } from '../controllers/error.controller'
+[7m [0m [91m                            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+    at createTSError (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:863:19)
+    at getOutput (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1077:36)
+    at Object.compile (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1433:41)
+    at Module.m._compile (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+ [LOGGER] 2024-09-03 11:05:16.171 AM error : uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/routes/barang.route.ts[0m:[93m8[0m:[93m8[0m - [91merror[0m[90m TS2307: [0mCannot find module '../controllers/barang.contoller' or its corresponding type declarations.
+
+[7m8[0m } from '../controllers/barang.contoller'
+[7m [0m [91m       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[96msrc/routes/barang.route.ts[0m:[93m9[0m:[93m29[0m - [91merror[0m[90m TS2306: [0mFile 'D:/1latihan-coding/latihan-express/belajar-data-barang/src/controllers/error.controller.ts' is not a module.
+
+[7m9[0m import { autenticate } from '../controllers/error.controller'
+[7m [0m [91m                            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/routes/barang.route.ts[0m:[93m8[0m:[93m8[0m - [91merror[0m[90m TS2307: [0mCannot find module '../controllers/barang.contoller' or its corresponding type declarations.
+
+[7m8[0m } from '../controllers/barang.contoller'
+[7m [0m [91m       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[96msrc/routes/barang.route.ts[0m:[93m9[0m:[93m29[0m - [91merror[0m[90m TS2306: [0mFile 'D:/1latihan-coding/latihan-express/belajar-data-barang/src/controllers/error.controller.ts' is not a module.
+
+[7m9[0m import { autenticate } from '../controllers/error.controller'
+[7m [0m [91m                            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+    at createTSError (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:863:19)
+    at getOutput (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1077:36)
+    at Object.compile (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1433:41)
+    at Module.m._compile (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+ [LOGGER] 2024-09-03 11:05:25.936 AM error : uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/routes/barang.route.ts[0m:[93m8[0m:[93m8[0m - [91merror[0m[90m TS2307: [0mCannot find module '../controllers/barang.contoller' or its corresponding type declarations.
+
+[7m8[0m } from '../controllers/barang.contoller'
+[7m [0m [91m       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/routes/barang.route.ts[0m:[93m8[0m:[93m8[0m - [91merror[0m[90m TS2307: [0mCannot find module '../controllers/barang.contoller' or its corresponding type declarations.
+
+[7m8[0m } from '../controllers/barang.contoller'
+[7m [0m [91m       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+    at createTSError (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:863:19)
+    at getOutput (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1077:36)
+    at Object.compile (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1433:41)
+    at Module.m._compile (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+ [LOGGER] 2024-09-03 11:05:44.191 AM error : uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/routes/barang.route.ts[0m:[93m8[0m:[93m8[0m - [91merror[0m[90m TS2307: [0mCannot find module '../controllers/barang.contoller' or its corresponding type declarations.
+
+[7m8[0m } from '../controllers/barang.contoller'
+[7m [0m [91m       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/routes/barang.route.ts[0m:[93m8[0m:[93m8[0m - [91merror[0m[90m TS2307: [0mCannot find module '../controllers/barang.contoller' or its corresponding type declarations.
+
+[7m8[0m } from '../controllers/barang.contoller'
+[7m [0m [91m       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+    at createTSError (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:863:19)
+    at getOutput (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1077:36)
+    at Object.compile (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1433:41)
+    at Module.m._compile (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+ [LOGGER] 2024-09-03 11:06:25.463 AM error : uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/routes/barang.route.ts[0m:[93m8[0m:[93m8[0m - [91merror[0m[90m TS2307: [0mCannot find module '../controllers/barang.contoller' or its corresponding type declarations.
+
+[7m8[0m } from '../controllers/barang.contoller'
+[7m [0m [91m       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/routes/barang.route.ts[0m:[93m8[0m:[93m8[0m - [91merror[0m[90m TS2307: [0mCannot find module '../controllers/barang.contoller' or its corresponding type declarations.
+
+[7m8[0m } from '../controllers/barang.contoller'
+[7m [0m [91m       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+    at createTSError (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:863:19)
+    at getOutput (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1077:36)
+    at Object.compile (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1433:41)
+    at Module.m._compile (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+ [LOGGER] 2024-09-03 11:06:43.842 AM error : uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/routes/barang.route.ts[0m:[93m8[0m:[93m8[0m - [91merror[0m[90m TS2307: [0mCannot find module '../controllers/barang.contoller' or its corresponding type declarations.
+
+[7m8[0m } from '../controllers/barang.contoller'
+[7m [0m [91m       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/routes/barang.route.ts[0m:[93m8[0m:[93m8[0m - [91merror[0m[90m TS2307: [0mCannot find module '../controllers/barang.contoller' or its corresponding type declarations.
+
+[7m8[0m } from '../controllers/barang.contoller'
+[7m [0m [91m       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+    at createTSError (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:863:19)
+    at getOutput (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1077:36)
+    at Object.compile (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1433:41)
+    at Module.m._compile (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+ [LOGGER] 2024-09-03 11:07:17.975 AM error : uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/routes/barang.route.ts[0m:[93m8[0m:[93m8[0m - [91merror[0m[90m TS2307: [0mCannot find module '../controllers/barang.contoller' or its corresponding type declarations.
+
+[7m8[0m } from '../controllers/barang.contoller'
+[7m [0m [91m       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/routes/barang.route.ts[0m:[93m8[0m:[93m8[0m - [91merror[0m[90m TS2307: [0mCannot find module '../controllers/barang.contoller' or its corresponding type declarations.
+
+[7m8[0m } from '../controllers/barang.contoller'
+[7m [0m [91m       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+    at createTSError (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:863:19)
+    at getOutput (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1077:36)
+    at Object.compile (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1433:41)
+    at Module.m._compile (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+ [LOGGER] 2024-09-03 11:07:46.187 AM error : uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/routes/barang.route.ts[0m:[93m8[0m:[93m8[0m - [91merror[0m[90m TS2307: [0mCannot find module '../controllers/barang.contoller' or its corresponding type declarations.
+
+[7m8[0m } from '../controllers/barang.contoller'
+[7m [0m [91m       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/routes/barang.route.ts[0m:[93m8[0m:[93m8[0m - [91merror[0m[90m TS2307: [0mCannot find module '../controllers/barang.contoller' or its corresponding type declarations.
+
+[7m8[0m } from '../controllers/barang.contoller'
+[7m [0m [91m       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+    at createTSError (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:863:19)
+    at getOutput (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1077:36)
+    at Object.compile (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1433:41)
+    at Module.m._compile (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+ [LOGGER] 2024-09-03 11:08:12.140 AM error : uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/routes/barang.route.ts[0m:[93m8[0m:[93m8[0m - [91merror[0m[90m TS2307: [0mCannot find module '../controllers/barang.contoller' or its corresponding type declarations.
+
+[7m8[0m } from '../controllers/barang.contoller'
+[7m [0m [91m       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/routes/barang.route.ts[0m:[93m8[0m:[93m8[0m - [91merror[0m[90m TS2307: [0mCannot find module '../controllers/barang.contoller' or its corresponding type declarations.
+
+[7m8[0m } from '../controllers/barang.contoller'
+[7m [0m [91m       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+    at createTSError (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:863:19)
+    at getOutput (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1077:36)
+    at Object.compile (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1433:41)
+    at Module.m._compile (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+ [LOGGER] 2024-09-03 11:09:03.671 AM error : uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/routes/barang.route.ts[0m:[93m8[0m:[93m8[0m - [91merror[0m[90m TS2307: [0mCannot find module '../controllers/barang.contoller' or its corresponding type declarations.
+
+[7m8[0m } from '../controllers/barang.contoller'
+[7m [0m [91m       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/routes/barang.route.ts[0m:[93m8[0m:[93m8[0m - [91merror[0m[90m TS2307: [0mCannot find module '../controllers/barang.contoller' or its corresponding type declarations.
+
+[7m8[0m } from '../controllers/barang.contoller'
+[7m [0m [91m       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+    at createTSError (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:863:19)
+    at getOutput (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1077:36)
+    at Object.compile (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1433:41)
+    at Module.m._compile (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+ [LOGGER] 2024-09-03 11:09:10.440 AM error : uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/routes/barang.route.ts[0m:[93m8[0m:[93m8[0m - [91merror[0m[90m TS2307: [0mCannot find module '../controllers/barang.contoller' or its corresponding type declarations.
+
+[7m8[0m } from '../controllers/barang.contoller'
+[7m [0m [91m       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/routes/barang.route.ts[0m:[93m8[0m:[93m8[0m - [91merror[0m[90m TS2307: [0mCannot find module '../controllers/barang.contoller' or its corresponding type declarations.
+
+[7m8[0m } from '../controllers/barang.contoller'
+[7m [0m [91m       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+    at createTSError (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:863:19)
+    at getOutput (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1077:36)
+    at Object.compile (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1433:41)
+    at Module.m._compile (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+ [LOGGER] 2024-09-03 11:09:31.973 AM error : uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/routes/barang.route.ts[0m:[93m8[0m:[93m8[0m - [91merror[0m[90m TS2307: [0mCannot find module '../controllers/barang.contoller' or its corresponding type declarations.
+
+[7m8[0m } from '../controllers/barang.contoller'
+[7m [0m [91m       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/routes/barang.route.ts[0m:[93m8[0m:[93m8[0m - [91merror[0m[90m TS2307: [0mCannot find module '../controllers/barang.contoller' or its corresponding type declarations.
+
+[7m8[0m } from '../controllers/barang.contoller'
+[7m [0m [91m       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+    at createTSError (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:863:19)
+    at getOutput (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1077:36)
+    at Object.compile (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1433:41)
+    at Module.m._compile (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+ [LOGGER] 2024-09-03 11:09:46.680 AM error : uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/routes/barang.route.ts[0m:[93m8[0m:[93m8[0m - [91merror[0m[90m TS2307: [0mCannot find module '../controllers/barang.contoller' or its corresponding type declarations.
+
+[7m8[0m } from '../controllers/barang.contoller'
+[7m [0m [91m       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/routes/barang.route.ts[0m:[93m8[0m:[93m8[0m - [91merror[0m[90m TS2307: [0mCannot find module '../controllers/barang.contoller' or its corresponding type declarations.
+
+[7m8[0m } from '../controllers/barang.contoller'
+[7m [0m [91m       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+    at createTSError (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:863:19)
+    at getOutput (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1077:36)
+    at Object.compile (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1433:41)
+    at Module.m._compile (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+ [LOGGER] 2024-09-03 11:10:11.729 AM error : uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/routes/barang.route.ts[0m:[93m8[0m:[93m8[0m - [91merror[0m[90m TS2307: [0mCannot find module '../controllers/barang.contoller' or its corresponding type declarations.
+
+[7m8[0m } from '../controllers/barang.contoller'
+[7m [0m [91m       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/routes/barang.route.ts[0m:[93m8[0m:[93m8[0m - [91merror[0m[90m TS2307: [0mCannot find module '../controllers/barang.contoller' or its corresponding type declarations.
+
+[7m8[0m } from '../controllers/barang.contoller'
+[7m [0m [91m       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+    at createTSError (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:863:19)
+    at getOutput (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1077:36)
+    at Object.compile (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1433:41)
+    at Module.m._compile (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+ [LOGGER] 2024-09-03 11:10:33.022 AM error : uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/routes/barang.route.ts[0m:[93m8[0m:[93m8[0m - [91merror[0m[90m TS2307: [0mCannot find module '../controllers/barang.contoller' or its corresponding type declarations.
+
+[7m8[0m } from '../controllers/barang.contoller'
+[7m [0m [91m       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/routes/barang.route.ts[0m:[93m8[0m:[93m8[0m - [91merror[0m[90m TS2307: [0mCannot find module '../controllers/barang.contoller' or its corresponding type declarations.
+
+[7m8[0m } from '../controllers/barang.contoller'
+[7m [0m [91m       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+    at createTSError (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:863:19)
+    at getOutput (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1077:36)
+    at Object.compile (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1433:41)
+    at Module.m._compile (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+ [LOGGER] 2024-09-03 11:10:41.666 AM error : uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/routes/barang.route.ts[0m:[93m8[0m:[93m8[0m - [91merror[0m[90m TS2307: [0mCannot find module '../controllers/barang.contoller' or its corresponding type declarations.
+
+[7m8[0m } from '../controllers/barang.contoller'
+[7m [0m [91m       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/routes/barang.route.ts[0m:[93m8[0m:[93m8[0m - [91merror[0m[90m TS2307: [0mCannot find module '../controllers/barang.contoller' or its corresponding type declarations.
+
+[7m8[0m } from '../controllers/barang.contoller'
+[7m [0m [91m       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+    at createTSError (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:863:19)
+    at getOutput (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1077:36)
+    at Object.compile (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1433:41)
+    at Module.m._compile (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+ [LOGGER] 2024-09-03 11:12:35.815 AM error : uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/routes/barang.route.ts[0m:[93m8[0m:[93m8[0m - [91merror[0m[90m TS2307: [0mCannot find module '../controllers/barang.contoller' or its corresponding type declarations.
+
+[7m8[0m } from '../controllers/barang.contoller'
+[7m [0m [91m       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/routes/barang.route.ts[0m:[93m8[0m:[93m8[0m - [91merror[0m[90m TS2307: [0mCannot find module '../controllers/barang.contoller' or its corresponding type declarations.
+
+[7m8[0m } from '../controllers/barang.contoller'
+[7m [0m [91m       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+    at createTSError (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:863:19)
+    at getOutput (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1077:36)
+    at Object.compile (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1433:41)
+    at Module.m._compile (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+ [LOGGER] 2024-09-03 11:13:40.512 AM error : uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/routes/index.ts[0m:[93m6[0m:[93m17[0m - [91merror[0m[90m TS2304: [0mCannot find name 'userRouter'.
+
+[7m6[0m app.use("/api", userRouter);
+[7m [0m [91m                ~~~~~~~~~~[0m
+[96msrc/routes/index.ts[0m:[93m8[0m:[93m14[0m - [91merror[0m[90m TS2304: [0mCannot find name 'errorHandling'.
+
+[7m8[0m app.use("*", errorHandling);
+[7m [0m [91m             ~~~~~~~~~~~~~[0m
+[96msrc/routes/index.ts[0m:[93m9[0m:[93m14[0m - [91merror[0m[90m TS2304: [0mCannot find name 'notFound'.
+
+[7m9[0m app.use("*", notFound);
+[7m [0m [91m             ~~~~~~~~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/routes/index.ts[0m:[93m6[0m:[93m17[0m - [91merror[0m[90m TS2304: [0mCannot find name 'userRouter'.
+
+[7m6[0m app.use("/api", userRouter);
+[7m [0m [91m                ~~~~~~~~~~[0m
+[96msrc/routes/index.ts[0m:[93m8[0m:[93m14[0m - [91merror[0m[90m TS2304: [0mCannot find name 'errorHandling'.
+
+[7m8[0m app.use("*", errorHandling);
+[7m [0m [91m             ~~~~~~~~~~~~~[0m
+[96msrc/routes/index.ts[0m:[93m9[0m:[93m14[0m - [91merror[0m[90m TS2304: [0mCannot find name 'notFound'.
+
+[7m9[0m app.use("*", notFound);
+[7m [0m [91m             ~~~~~~~~[0m
+
+    at createTSError (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:863:19)
+    at getOutput (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1077:36)
+    at Object.compile (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1433:41)
+    at Module.m._compile (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+ [LOGGER] 2024-09-03 11:13:51.297 AM error : uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/routes/index.ts[0m:[93m7[0m:[93m17[0m - [91merror[0m[90m TS2304: [0mCannot find name 'userRouter'.
+
+[7m7[0m app.use("/api", userRouter);
+[7m [0m [91m                ~~~~~~~~~~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/routes/index.ts[0m:[93m7[0m:[93m17[0m - [91merror[0m[90m TS2304: [0mCannot find name 'userRouter'.
+
+[7m7[0m app.use("/api", userRouter);
+[7m [0m [91m                ~~~~~~~~~~[0m
+
+    at createTSError (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:863:19)
+    at getOutput (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1077:36)
+    at Object.compile (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1433:41)
+    at Module.m._compile (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+ [LOGGER] 2024-09-03 11:14:01.812 AM error : uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/routes/index.ts[0m:[93m7[0m:[93m17[0m - [91merror[0m[90m TS2304: [0mCannot find name 'userRouter'.
+
+[7m7[0m app.use("/api", userRouter);
+[7m [0m [91m                ~~~~~~~~~~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/routes/index.ts[0m:[93m7[0m:[93m17[0m - [91merror[0m[90m TS2304: [0mCannot find name 'userRouter'.
+
+[7m7[0m app.use("/api", userRouter);
+[7m [0m [91m                ~~~~~~~~~~[0m
+
+    at createTSError (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:863:19)
+    at getOutput (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1077:36)
+    at Object.compile (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1433:41)
+    at Module.m._compile (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+ [LOGGER] 2024-09-03 11:14:15.391 AM error : uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/routes/index.ts[0m:[93m7[0m:[93m17[0m - [91merror[0m[90m TS2304: [0mCannot find name 'userRouter'.
+
+[7m7[0m app.use("/api", userRouter);
+[7m [0m [91m                ~~~~~~~~~~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/routes/index.ts[0m:[93m7[0m:[93m17[0m - [91merror[0m[90m TS2304: [0mCannot find name 'userRouter'.
+
+[7m7[0m app.use("/api", userRouter);
+[7m [0m [91m                ~~~~~~~~~~[0m
+
+    at createTSError (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:863:19)
+    at getOutput (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1077:36)
+    at Object.compile (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1433:41)
+    at Module.m._compile (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+ [LOGGER] 2024-09-03 11:14:28.635 AM error : uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/routes/index.ts[0m:[93m7[0m:[93m17[0m - [91merror[0m[90m TS2304: [0mCannot find name 'userRouter'.
+
+[7m7[0m app.use("/api", userRouter);
+[7m [0m [91m                ~~~~~~~~~~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/routes/index.ts[0m:[93m7[0m:[93m17[0m - [91merror[0m[90m TS2304: [0mCannot find name 'userRouter'.
+
+[7m7[0m app.use("/api", userRouter);
+[7m [0m [91m                ~~~~~~~~~~[0m
+
+    at createTSError (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:863:19)
+    at getOutput (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1077:36)
+    at Object.compile (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1433:41)
+    at Module.m._compile (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+ [LOGGER] 2024-09-03 11:14:48.851 AM error : uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/routes/index.ts[0m:[93m7[0m:[93m17[0m - [91merror[0m[90m TS2304: [0mCannot find name 'userRouter'.
+
+[7m7[0m app.use("/api", userRouter);
+[7m [0m [91m                ~~~~~~~~~~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/routes/index.ts[0m:[93m7[0m:[93m17[0m - [91merror[0m[90m TS2304: [0mCannot find name 'userRouter'.
+
+[7m7[0m app.use("/api", userRouter);
+[7m [0m [91m                ~~~~~~~~~~[0m
+
+    at createTSError (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:863:19)
+    at getOutput (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1077:36)
+    at Object.compile (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1433:41)
+    at Module.m._compile (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+ [LOGGER] 2024-09-03 11:14:59.361 AM error : uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/routes/index.ts[0m:[93m7[0m:[93m17[0m - [91merror[0m[90m TS2304: [0mCannot find name 'userRouter'.
+
+[7m7[0m app.use("/api", userRouter);
+[7m [0m [91m                ~~~~~~~~~~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/routes/index.ts[0m:[93m7[0m:[93m17[0m - [91merror[0m[90m TS2304: [0mCannot find name 'userRouter'.
+
+[7m7[0m app.use("/api", userRouter);
+[7m [0m [91m                ~~~~~~~~~~[0m
+
+    at createTSError (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:863:19)
+    at getOutput (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1077:36)
+    at Object.compile (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1433:41)
+    at Module.m._compile (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+ [LOGGER] 2024-09-03 11:15:27.879 AM error : uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/routes/index.ts[0m:[93m7[0m:[93m17[0m - [91merror[0m[90m TS2304: [0mCannot find name 'userRouter'.
+
+[7m7[0m app.use("/api", userRouter);
+[7m [0m [91m                ~~~~~~~~~~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/routes/index.ts[0m:[93m7[0m:[93m17[0m - [91merror[0m[90m TS2304: [0mCannot find name 'userRouter'.
+
+[7m7[0m app.use("/api", userRouter);
+[7m [0m [91m                ~~~~~~~~~~[0m
+
+    at createTSError (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:863:19)
+    at getOutput (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1077:36)
+    at Object.compile (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1433:41)
+    at Module.m._compile (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+ [LOGGER] 2024-09-03 11:15:49.211 AM error : uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/routes/index.ts[0m:[93m7[0m:[93m17[0m - [91merror[0m[90m TS2304: [0mCannot find name 'userRouter'.
+
+[7m7[0m app.use("/api", userRouter);
+[7m [0m [91m                ~~~~~~~~~~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/routes/index.ts[0m:[93m7[0m:[93m17[0m - [91merror[0m[90m TS2304: [0mCannot find name 'userRouter'.
+
+[7m7[0m app.use("/api", userRouter);
+[7m [0m [91m                ~~~~~~~~~~[0m
+
+    at createTSError (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:863:19)
+    at getOutput (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1077:36)
+    at Object.compile (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1433:41)
+    at Module.m._compile (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+ [LOGGER] 2024-09-03 11:16:11.742 AM error : uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/routes/index.ts[0m:[93m7[0m:[93m17[0m - [91merror[0m[90m TS2304: [0mCannot find name 'userRouter'.
+
+[7m7[0m app.use("/api", userRouter);
+[7m [0m [91m                ~~~~~~~~~~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/routes/index.ts[0m:[93m7[0m:[93m17[0m - [91merror[0m[90m TS2304: [0mCannot find name 'userRouter'.
+
+[7m7[0m app.use("/api", userRouter);
+[7m [0m [91m                ~~~~~~~~~~[0m
+
+    at createTSError (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:863:19)
+    at getOutput (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1077:36)
+    at Object.compile (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1433:41)
+    at Module.m._compile (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+ [LOGGER] 2024-09-03 11:16:26.838 AM error : uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/controllers/user.controller.ts[0m:[93m2[0m:[93m58[0m - [91merror[0m[90m TS2307: [0mCannot find module '../validations/user.validation' or its corresponding type declarations.
+
+[7m2[0m import { inputUserValidation, loginUserValidation } from "../validations/user.validation";
+[7m [0m [91m                                                         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[96msrc/controllers/user.controller.ts[0m:[93m4[0m:[93m39[0m - [91merror[0m[90m TS2307: [0mCannot find module '../services/user.service' or its corresponding type declarations.
+
+[7m4[0m import { createUser, userLogin } from "../services/user.service";
+[7m [0m [91m                                      ~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/controllers/user.controller.ts[0m:[93m2[0m:[93m58[0m - [91merror[0m[90m TS2307: [0mCannot find module '../validations/user.validation' or its corresponding type declarations.
+
+[7m2[0m import { inputUserValidation, loginUserValidation } from "../validations/user.validation";
+[7m [0m [91m                                                         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[96msrc/controllers/user.controller.ts[0m:[93m4[0m:[93m39[0m - [91merror[0m[90m TS2307: [0mCannot find module '../services/user.service' or its corresponding type declarations.
+
+[7m4[0m import { createUser, userLogin } from "../services/user.service";
+[7m [0m [91m                                      ~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+    at createTSError (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:863:19)
+    at getOutput (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1077:36)
+    at Object.compile (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1433:41)
+    at Module.m._compile (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+ [LOGGER] 2024-09-03 11:16:42.818 AM error : uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/controllers/user.controller.ts[0m:[93m2[0m:[93m58[0m - [91merror[0m[90m TS2307: [0mCannot find module '../validations/user.validation' or its corresponding type declarations.
+
+[7m2[0m import { inputUserValidation, loginUserValidation } from "../validations/user.validation";
+[7m [0m [91m                                                         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[96msrc/controllers/user.controller.ts[0m:[93m4[0m:[93m39[0m - [91merror[0m[90m TS2306: [0mFile 'D:/1latihan-coding/latihan-express/belajar-data-barang/src/services/user.service.ts' is not a module.
+
+[7m4[0m import { createUser, userLogin } from "../services/user.service";
+[7m [0m [91m                                      ~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/controllers/user.controller.ts[0m:[93m2[0m:[93m58[0m - [91merror[0m[90m TS2307: [0mCannot find module '../validations/user.validation' or its corresponding type declarations.
+
+[7m2[0m import { inputUserValidation, loginUserValidation } from "../validations/user.validation";
+[7m [0m [91m                                                         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[96msrc/controllers/user.controller.ts[0m:[93m4[0m:[93m39[0m - [91merror[0m[90m TS2306: [0mFile 'D:/1latihan-coding/latihan-express/belajar-data-barang/src/services/user.service.ts' is not a module.
+
+[7m4[0m import { createUser, userLogin } from "../services/user.service";
+[7m [0m [91m                                      ~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+    at createTSError (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:863:19)
+    at getOutput (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1077:36)
+    at Object.compile (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1433:41)
+    at Module.m._compile (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+ [LOGGER] 2024-09-03 11:16:55.663 AM error : uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/controllers/user.controller.ts[0m:[93m2[0m:[93m58[0m - [91merror[0m[90m TS2307: [0mCannot find module '../validations/user.validation' or its corresponding type declarations.
+
+[7m2[0m import { inputUserValidation, loginUserValidation } from "../validations/user.validation";
+[7m [0m [91m                                                         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/controllers/user.controller.ts[0m:[93m2[0m:[93m58[0m - [91merror[0m[90m TS2307: [0mCannot find module '../validations/user.validation' or its corresponding type declarations.
+
+[7m2[0m import { inputUserValidation, loginUserValidation } from "../validations/user.validation";
+[7m [0m [91m                                                         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+    at createTSError (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:863:19)
+    at getOutput (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1077:36)
+    at Object.compile (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1433:41)
+    at Module.m._compile (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+ [LOGGER] 2024-09-03 11:17:06.942 AM error : uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/controllers/user.controller.ts[0m:[93m2[0m:[93m58[0m - [91merror[0m[90m TS2307: [0mCannot find module '../validations/user.validation' or its corresponding type declarations.
+
+[7m2[0m import { inputUserValidation, loginUserValidation } from "../validations/user.validation";
+[7m [0m [91m                                                         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/controllers/user.controller.ts[0m:[93m2[0m:[93m58[0m - [91merror[0m[90m TS2307: [0mCannot find module '../validations/user.validation' or its corresponding type declarations.
+
+[7m2[0m import { inputUserValidation, loginUserValidation } from "../validations/user.validation";
+[7m [0m [91m                                                         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+    at createTSError (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:863:19)
+    at getOutput (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1077:36)
+    at Object.compile (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1433:41)
+    at Module.m._compile (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+ [LOGGER] 2024-09-03 11:17:23.068 AM error : uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/controllers/user.controller.ts[0m:[93m2[0m:[93m58[0m - [91merror[0m[90m TS2307: [0mCannot find module '../validations/user.validation' or its corresponding type declarations.
+
+[7m2[0m import { inputUserValidation, loginUserValidation } from "../validations/user.validation";
+[7m [0m [91m                                                         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/controllers/user.controller.ts[0m:[93m2[0m:[93m58[0m - [91merror[0m[90m TS2307: [0mCannot find module '../validations/user.validation' or its corresponding type declarations.
+
+[7m2[0m import { inputUserValidation, loginUserValidation } from "../validations/user.validation";
+[7m [0m [91m                                                         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+    at createTSError (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:863:19)
+    at getOutput (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1077:36)
+    at Object.compile (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1433:41)
+    at Module.m._compile (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+ [LOGGER] 2024-09-03 11:17:36.462 AM error : uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/controllers/user.controller.ts[0m:[93m2[0m:[93m58[0m - [91merror[0m[90m TS2307: [0mCannot find module '../validations/user.validation' or its corresponding type declarations.
+
+[7m2[0m import { inputUserValidation, loginUserValidation } from "../validations/user.validation";
+[7m [0m [91m                                                         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/controllers/user.controller.ts[0m:[93m2[0m:[93m58[0m - [91merror[0m[90m TS2307: [0mCannot find module '../validations/user.validation' or its corresponding type declarations.
+
+[7m2[0m import { inputUserValidation, loginUserValidation } from "../validations/user.validation";
+[7m [0m [91m                                                         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+    at createTSError (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:863:19)
+    at getOutput (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1077:36)
+    at Object.compile (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1433:41)
+    at Module.m._compile (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+ [LOGGER] 2024-09-03 11:17:49.804 AM error : uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/controllers/user.controller.ts[0m:[93m2[0m:[93m58[0m - [91merror[0m[90m TS2307: [0mCannot find module '../validations/user.validation' or its corresponding type declarations.
+
+[7m2[0m import { inputUserValidation, loginUserValidation } from "../validations/user.validation";
+[7m [0m [91m                                                         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/controllers/user.controller.ts[0m:[93m2[0m:[93m58[0m - [91merror[0m[90m TS2307: [0mCannot find module '../validations/user.validation' or its corresponding type declarations.
+
+[7m2[0m import { inputUserValidation, loginUserValidation } from "../validations/user.validation";
+[7m [0m [91m                                                         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+    at createTSError (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:863:19)
+    at getOutput (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1077:36)
+    at Object.compile (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1433:41)
+    at Module.m._compile (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+ [LOGGER] 2024-09-03 11:18:02.147 AM error : uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/controllers/user.controller.ts[0m:[93m2[0m:[93m58[0m - [91merror[0m[90m TS2307: [0mCannot find module '../validations/user.validation' or its corresponding type declarations.
+
+[7m2[0m import { inputUserValidation, loginUserValidation } from "../validations/user.validation";
+[7m [0m [91m                                                         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/controllers/user.controller.ts[0m:[93m2[0m:[93m58[0m - [91merror[0m[90m TS2307: [0mCannot find module '../validations/user.validation' or its corresponding type declarations.
+
+[7m2[0m import { inputUserValidation, loginUserValidation } from "../validations/user.validation";
+[7m [0m [91m                                                         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+    at createTSError (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:863:19)
+    at getOutput (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1077:36)
+    at Object.compile (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1433:41)
+    at Module.m._compile (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+ [LOGGER] 2024-09-03 11:19:32.860 AM error : uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/routes/user.route.ts[0m:[93m8[0m:[93m28[0m - [91merror[0m[90m TS2304: [0mCannot find name 'refreshToken'.
+
+[7m8[0m userRouter.get("/refresh", refreshToken);
+[7m [0m [91m                           ~~~~~~~~~~~~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/routes/user.route.ts[0m:[93m8[0m:[93m28[0m - [91merror[0m[90m TS2304: [0mCannot find name 'refreshToken'.
+
+[7m8[0m userRouter.get("/refresh", refreshToken);
+[7m [0m [91m                           ~~~~~~~~~~~~[0m
+
+    at createTSError (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:863:19)
+    at getOutput (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1077:36)
+    at Object.compile (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1433:41)
+    at Module.m._compile (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\1latihan-coding\latihan-express\belajar-data-barang\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
